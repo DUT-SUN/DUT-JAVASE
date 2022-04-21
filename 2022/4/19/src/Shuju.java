@@ -45,6 +45,7 @@ public class Shuju {
         char ch=97;
         char ch2=97+2;//这不会报错，Java只会检查是否超过范围
         String str="  avasdaabsda  ";
+   
 //char ch2=ch+2;会报错因为进行了运算整形提升
         //两种不一样的数据类型进行运算的时候，会把较小的转化的较大的一个参于运算
         System.out.println(num*num);//精度
