@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4786ec1-d692-4f82-8b09-0494e3b24269" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/DuoTai.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Book/BookList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/User/AdminUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/User/NormalUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/User/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/AddOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/DelOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/DisplayOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/ExitOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/FindOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Last_Supplement_library _Management _Exe/out/production/Last_Supplement_library _Management _Exe/operator/IOperation.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,14 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678508694822</updated>
       <workItem from="1678508695926" duration="4000" />
+      <workItem from="1678509514798" duration="1000" />
     </task>
     <servers />
   </component>
